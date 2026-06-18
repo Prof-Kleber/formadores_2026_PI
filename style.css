@@ -1,11 +1,12 @@
 .cabecalho{
+    background-color: black;
     text-align: center;
     color: white;
     width: auto;
     height: auto;
 }
 
-body{
+.principal{
     background-color: black;
     color: white;
 }
