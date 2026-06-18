@@ -1,13 +1,17 @@
 .cabecalho{
     text-align: center;
     color: white;
-}
-.foto-perfil{
     width: 800px;
     height: 600px;
 }
+
 .principal{
     background-color: black;
-    text-align: center;
     color: white;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
 }
