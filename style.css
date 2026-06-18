@@ -1,10 +1,10 @@
-.cabecalho{
+header{
     background-color: black;
     text-align: center;
     color: white;
 }
 
-.principal{
+body{
     background-color: black;
     color: white;
 }
