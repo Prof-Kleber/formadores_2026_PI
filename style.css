@@ -4,6 +4,10 @@ header{
     color: white;
 }
 
+.foto-perfil{
+    size: 50%;
+}
+
 body{
     background-color: black;
     color: white;
