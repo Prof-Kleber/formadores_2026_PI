@@ -11,10 +11,5 @@ header{
 body{
     background-color: black;
     color: white;
-}
-h1{
-    text-align: center;
-}
-p, h2{
     text-align: center;
 }
